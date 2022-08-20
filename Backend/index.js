@@ -22,7 +22,7 @@ app.post('/getAudio', (req, res) => {
 
     const voice = {
         languageCode: 'en-US',
-        name: 'en-US-Wavenet-A',
+        name: 'en-US-Wavenet-D',
         ssmlGender: 'NEUTRAL'
     }
 
